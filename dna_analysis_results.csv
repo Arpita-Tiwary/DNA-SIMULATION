@@ -1,0 +1,45 @@
+Analysis Timestamp: 2024-11-09 20:36:26
+Name,demo
+Original DNA sequence,AATTCGGCATCGGA
+Complementary sequence,TTAAGCCGTAGCCT
+Reverse Complementary sequence,TCCGATGCCGAATT
+GC content,50.00%
+Length of sequence,14
+Melting Temperature (Tm),42
+Motif Positions,Not found
+Binary Representation,0000010111101011000111101000
+Hashed Sequence,-4964946055819003351
+Memory Addresses,"{'Address 0': 'A', 'Address 1': 'A', 'Address 2': 'T', 'Address 3': 'T', 'Address 4': 'C', 'Address 5': 'G', 'Address 6': 'G', 'Address 7': 'C', 'Address 8': 'A', 'Address 9': 'T', 'Address 10': 'C', 'Address 11': 'G', 'Address 12': 'G', 'Address 13': 'A'}"
+Compressed Sequence,"[('A', 2), ('T', 2), ('C', 1), ('G', 2), ('C', 1), ('A', 1), ('T', 1), ('C', 1), ('G', 2), ('A', 1)]"
+Parallel Processing Chunks,"[Seq('AAT'), Seq('TCG'), Seq('GCA'), Seq('TCG'), Seq('GA')]"
+
+Analysis Timestamp: 2024-11-11 10:14:12
+Name,demo
+Original DNA sequence,AATTGGGGCCCAATTAG
+Complementary sequence,TTAACCCCGGGTTAATC
+Reverse Complementary sequence,CTAATTGGGCCCCAATT
+GC content,47.06%
+Length of sequence,17
+Melting Temperature (Tm),50
+Motif Positions,Not found
+Binary Representation,0000010110101010111111000001010010
+Hashed Sequence,3961017103998539664
+Memory Addresses,"{'Address 0': 'A', 'Address 1': 'A', 'Address 2': 'T', 'Address 3': 'T', 'Address 4': 'G', 'Address 5': 'G', 'Address 6': 'G', 'Address 7': 'G', 'Address 8': 'C', 'Address 9': 'C', 'Address 10': 'C', 'Address 11': 'A', 'Address 12': 'A', 'Address 13': 'T', 'Address 14': 'T', 'Address 15': 'A', 'Address 16': 'G'}"
+Compressed Sequence,"[('A', 2), ('T', 2), ('G', 4), ('C', 3), ('A', 2), ('T', 2), ('A', 1), ('G', 1)]"
+Parallel Processing Chunks,"[Seq('AATT'), Seq('GGGG'), Seq('CCCA'), Seq('ATTA'), Seq('G')]"
+
+Analysis Timestamp: 2024-11-11 10:15:39
+Name,demooooo
+Original DNA sequence,AAATTTTCCGGAATTTCCGG
+Complementary sequence,TTTAAAAGGCCTTAAAGGCC
+Reverse Complementary sequence,CCGGAAATTCCGGAAAATTT
+GC content,40.00%
+Length of sequence,20
+Melting Temperature (Tm),56
+Motif Positions,Not found
+Binary Representation,0000000101010111111010000001010111111010
+Hashed Sequence,8814253631065265596
+Memory Addresses,"{'Address 0': 'A', 'Address 1': 'A', 'Address 2': 'A', 'Address 3': 'T', 'Address 4': 'T', 'Address 5': 'T', 'Address 6': 'T', 'Address 7': 'C', 'Address 8': 'C', 'Address 9': 'G', 'Address 10': 'G', 'Address 11': 'A', 'Address 12': 'A', 'Address 13': 'T', 'Address 14': 'T', 'Address 15': 'T', 'Address 16': 'C', 'Address 17': 'C', 'Address 18': 'G', 'Address 19': 'G'}"
+Compressed Sequence,"[('A', 3), ('T', 4), ('C', 2), ('G', 2), ('A', 2), ('T', 3), ('C', 2), ('G', 2)]"
+Parallel Processing Chunks,"[Seq('AAATT'), Seq('TTCCG'), Seq('GAATT'), Seq('TCCGG')]"
+
